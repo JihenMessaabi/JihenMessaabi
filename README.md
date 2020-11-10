@@ -2,7 +2,7 @@
 <!--
 **JihenMessaabi/JihenMessaabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I am **Jihen Messaabi,** I.m a full-stack engineer, and I specialize in efficient Angular apps with Spring boot based server side that offers an excellent user experience while ensuring the smooth operations.
+I am **Jihen Messaabi,** full-stack engineer, and I specialize in efficient Angular apps with Spring boot based server side that offers an excellent user experience while ensuring the smooth operations.
 
 - My professional life has been 100% driven by my passion for design and development.  For more than two years now, I've worked for multiple e-commerce platforms in Italy.
 After that, I was in charge of implementing and launching several apps for large Italian retail & inventory industry, within a great team!
